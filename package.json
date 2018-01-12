@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigote/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Matheus Souza Rigote <matheus@rigotedesign.com.br> (http://www.rigotedesign.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rigote/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/rigote/js-tdd-course#readme"
+}
